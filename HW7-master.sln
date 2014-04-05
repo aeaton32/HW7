@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HW7-master", "..\HW7-master", "{E5725817-06E4-43E5-A6E3-EB04D4EC86A1}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/HW7-master"
+		Debug.AspNetCompiler.PhysicalPath = "..\HW7-master\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\HW7-master\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/HW7-master"
+		Release.AspNetCompiler.PhysicalPath = "..\HW7-master\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\HW7-master\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64413"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5725817-06E4-43E5-A6E3-EB04D4EC86A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5725817-06E4-43E5-A6E3-EB04D4EC86A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
